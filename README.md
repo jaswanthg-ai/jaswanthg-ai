@@ -24,13 +24,6 @@ Cloud:       AWS · Bedrock
 Tools:       Maven · Docker · Git
 ```
 
-## Projects
-
-| Project | What it does | Concepts |
-|---|---|---|
-| [inbox-triage-agent](https://github.com/jaswanthg-ai/inbox-triage-agent) | Reads files, decides priority using LLM | Tool calling · ReAct loop |
-| [sql-query-agent](https://github.com/jaswanthg-ai/sql-query-agent) | Natural language → SQL → real Postgres | Prompt chaining · Text to SQL · Tool safety |
-
 ## What I'm learning
 ```
 Week 1  ✓  Tool calling · MCP protocol · ReAct loop
