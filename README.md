@@ -14,25 +14,6 @@ AI Systems Engineer focused on building production-grade agentic systems in Java
 Deeply learning agentic AI architecture — one build at a time.
 Every repo here is something I built and understand end to end.
 
-## Stack
-```
-Languages:   Java 17
-Frameworks:  Spring Boot · Spring AI
-AI:          LLM tool calling · MCP protocol · RAG · Text to SQL
-Data:        PostgreSQL · pgvector
-Cloud:       AWS · Bedrock
-Tools:       Maven · Docker · Git
-```
-
-## What I'm learning
-```
-Week 1  ✓  Tool calling · MCP protocol · ReAct loop
-Week 2  ✓  Prompt chaining · Text to SQL · Data privacy
-Week 3  →  RAG · Vector search · Embeddings
-Week 4     Multi-agent systems · Orchestration
-Week 5     Production safety · Guardrails · Observability
-Week 6     Full agent — end to end
-```
 
 ## Ask me about
 
