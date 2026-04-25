@@ -1,9 +1,8 @@
-<!-- Profile views badge -->
-![Profile Views](https://komarev.com/ghpvc/?username=jaswanthg-ai&color=grey&style=flat&label=profile+views)
+
 
 # Jaswanth G
 
-AI & Agentic Systems Engineer · [jaswanth.site](https://jaswanth.site) · [LinkedIn](https://www.linkedin.com/in/jaswanth-g-587761168/)
+AI & Agentic Systems Engineer · Networking noob. [jaswanth.site](https://jaswanth.site) · [LinkedIn](https://www.linkedin.com/in/jaswanth-g-587761168/)
 
 ---
 
