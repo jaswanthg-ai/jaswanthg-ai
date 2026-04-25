@@ -3,7 +3,7 @@
 
 # Jaswanth G
 
-AI & Agentic Systems Engineer · [jaswanth.site](https://jaswanth.site) · [LinkedIn](https://linkedin.com/in/jaswanth-gollamudi)
+AI & Agentic Systems Engineer · [jaswanth.site](https://jaswanth.site) · [LinkedIn](https://www.linkedin.com/in/jaswanth-g-587761168/)
 
 ---
 
@@ -26,4 +26,4 @@ Every repo here is something I built and understand end to end.
 ## Connect
 
 - Website: [jaswanth.site](https://jaswanth.site)
-- LinkedIn: [linkedin.com/in/jaswanth-gollamudi](https://linkedin.com/in/jaswanth-gollamudi)
+- LinkedIn: [https://www.linkedin.com/in/jaswanth-g-587761168/](https://www.linkedin.com/in/jaswanth-g-587761168/)
